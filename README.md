@@ -1,6 +1,6 @@
 # Cisco Smart Licensing
 
-Configuration of Smart Licensing on Cisco device
+Configuration of Smart Licensing on Cisco devices
 
 
 ## Smart Licensing via direct connect
